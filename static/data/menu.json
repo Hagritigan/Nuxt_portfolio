@@ -1,0 +1,76 @@
+{
+  "menu" : [
+    {
+      "title" : "Player 01",
+      "active" : false,
+      "subtitle" : [
+        {
+          "name" : "Early years",
+          "to" : "/early_years"
+        },
+        {
+          "name" : "Captain",
+          "to" : "/captain"
+        },
+        {
+          "name" : "Champion",
+          "to" : "/champion"
+        },
+        {
+          "name" : "Late career",
+          "to" : "/late_career"
+        }
+      ]
+    },
+    {
+      "title" : "Manager 02",
+      "active" : false,
+      "subtitle" : [
+        {
+          "name" : "Red Wings",
+          "to" : "/red_wings_m"
+        },
+        {
+          "name" : "Lightning",
+          "to" : "/lightning_m"
+        },
+        {
+          "name" : "Team Canada",
+          "to" : "/canada_m"
+        }
+      ]
+    },
+    {
+      "title" : "Stats 03",
+      "active" : false,
+      "subtitle" : [
+        {
+          "name" : "Regular",
+          "to" : "/regular"
+        },
+        {
+          "name" : "Playoffs",
+          "to" : "/playoffs"
+        },
+        {
+          "name" : "International",
+          "to" : "/international"
+        }
+      ]
+    },
+    {
+      "title" : "Performance 04",
+      "active" : false,
+      "subtitle" : [
+        {
+          "name" : "Awards",
+          "to" : "/awards"
+        },
+        {
+          "name" : "Achievements",
+          "to" : "/achievements"
+        }
+      ]
+    }
+  ]
+}
